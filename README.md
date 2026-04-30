@@ -59,7 +59,7 @@ This dashboard brings together **job roles, salaries, skills, and satisfaction m
 * 📊 **SQL offers strong salary returns**, competing closely with “Other” specialized tools  
 
 <p align="left">
-  <img src="" alt="" width="800"/>
+  <img src="images\skills_dashboard_image.jpg" alt="images\skills_dashboard_image.jpg" width="800"/>
 </p>
 
 #### 🔄 **Career Switching Trend**
