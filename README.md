@@ -20,7 +20,8 @@ Breaking into and growing within the data field can be confusing—there’s oft
 This project uses a survey dataset (630 responses) provided by **Alex The Analyst**, capturing real opinions from data professionals across areas like **salary, work-life balance, learning opportunities, and career transitions**.
 
 The goal is simple:
-👉 Turn raw survey responses into **clear, actionable insights** for anyone interested in a data career 😎
+👉 Turn raw survey responses into **clear, actionable insights** for anyone interested in a data career 😎  
+
 ---
 
 ### **🛠️ Tools of the Trade ⚙️**
