@@ -44,7 +44,7 @@ This dashboard brings together **job roles, salaries, skills, and satisfaction m
 * 😊 **Salary satisfaction score ~4.27/10** → shows room for improvement in compensation perception
 
 <p align="left">
-  <img src="images\titles_dashboard_image.jpg" alt="images\titles_dashboard_image.jpg" width="600"/>
+  <img src="images\titles_dashboard_image.jpg" alt="images\titles_dashboard_image.jpg" width="700"/>
 </p>
 
 #### 🏢 **Industry Trends**
@@ -59,7 +59,7 @@ This dashboard brings together **job roles, salaries, skills, and satisfaction m
 * 📊 **SQL offers strong salary returns**, competing closely with “Other” specialized tools  
 
 <p align="left">
-  <img src="images\skills_dashboard_image.jpg" alt="images\skills_dashboard_image.jpg" width="600"/>
+  <img src="images\skills_dashboard_image.jpg" alt="images\skills_dashboard_image.jpg" width="700"/>
 </p>
 
 #### 🔄 **Career Switching Trend**
